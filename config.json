@@ -1,0 +1,31 @@
+{
+    "bots":{
+        "footer":"Lrows Kayıt Video 25.02",
+        "VoiceChannel":"935324962808549446",
+        "status":"Lrows Kayıt Video 25.02"
+    },
+
+    "roles":{
+      "register":["913917134239838219"],
+      "maleRoles":["913916899358814258","Erkek Rol 2"],
+      "erkek1":"Erkek",
+      "femaleRoles":["913916916173799474","Kadın Rol 2"],
+      "kadın1":"Kız",
+      "unregisteres":"913916915540455464",
+      "vip":"935325252882432062",
+      "booster":"Booster Rol ID"  
+    },
+
+    "giriş":{
+      "isim":"• İsim | Yaş",
+      "hoşgeldinKanal":"935324045480693790",
+      "kurallar":"935324139680575549",
+      "SunucuAdı":"935324139680575549"
+    },
+
+    "taglar":{
+      "taglı":"ê",
+      "tagsız":"š",
+      "tag":"L"
+    }
+}
